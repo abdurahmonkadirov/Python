@@ -1,0 +1,2 @@
+# Python
+Pythonda qo'llanma
